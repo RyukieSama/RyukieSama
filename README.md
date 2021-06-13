@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 📚 New site [Lab.Lawliet](http://www.l-lawliet.com/)
+- 📦 Blog archive [RyukieDev](https://ryukiedev.gitbook.io/wiki/)
+
+### My products
+
+| - | 扫雷Elic 无尽天梯 | 梦见账本 |
+|:----:|:----:|:----:|
+|Type|Game|Finance|
+|Download|[AppStore-Elic](https://apps.apple.com/cn/app/id1488204246)|[AppStore-Umemi](https://apps.apple.com/cn/app/id1498426607)|
+
 <!--
 **RyukieSama/RyukieSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
