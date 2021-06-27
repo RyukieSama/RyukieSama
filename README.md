@@ -2,6 +2,7 @@
 
 - 📚 New site [Lab.Lawliet](http://www.l-lawliet.com/)
 - 📦 Blog archive [RyukieDev](https://ryukiedev.gitbook.io/wiki/)
+- Wechat: RyukieW
 
 ### My products
 
