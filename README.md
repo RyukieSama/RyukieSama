@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 📚 New site [Lab.Lawliet](http://www.l-lawliet.com/)
 - 📦 Blog archive [RyukieDev](https://ryukiedev.gitbook.io/wiki/)
-- Wechat: RyukieW
+- 💎[掘金](https://juejin.cn/user/405083464942519)
+- 🍻[Bilibili](https://space.bilibili.com/257240)
+- 📚 New site [Lab.Lawliet](http://www.l-lawliet.com/)
+- 微信: RyukieW
 
 ### My products
 
