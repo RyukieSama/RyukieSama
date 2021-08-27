@@ -6,6 +6,8 @@
 - 📚 New site [Lab.Lawliet](http://www.l-lawliet.com/)
 - 微信: RyukieW
 
+![公众号](公众号.JPG)
+
 ### My products
 
 | - | 扫雷Elic 无尽天梯 | 梦见账本 |
