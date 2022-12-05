@@ -18,10 +18,7 @@ iOS独立开发者｜口琴｜Aimer
 
 ## 个人项目 My products
 
-| - | 扫雷Elic 无尽天梯 | 梦见账本 |
-|:----:|:----:|:----:|
-|Type|Game|Finance|
-|[开发者页](https://apps.apple.com/cn/developer/rongqing-wang/id1264542103)|[AppStore-Elic](https://apps.apple.com/cn/app/id1488204246)|[AppStore-Umemi](https://apps.apple.com/cn/app/id1498426607)|
+<img align="right" src="AppStore.png" width = "40%"/>
 
 
 [![RyukieSama's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyukieSama&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/RyukieSama/github-readme-stats)
