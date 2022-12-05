@@ -18,7 +18,6 @@ iOS独立开发者｜口琴｜Aimer
 
 ## 个人项目 My products
 
-<img align="right" src="AppStore.png" width = "40%"/>
-
+<img align="left" src="AppStore.png" width = "40%"/>
 
 [![RyukieSama's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyukieSama&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/RyukieSama/github-readme-stats)
