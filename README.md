@@ -7,7 +7,7 @@
 
 <img align="right" src="公众号.JPG" width = "25%"/>
 
-iOS独立开发者｜口琴｜Aimer
+iOS独立开发者｜口琴
 
 - 📦[RyukieDev](https://ryukiedev.gitbook.io/wiki/)
   -  归档所有文章
