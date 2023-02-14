@@ -15,7 +15,7 @@ iOS独立开发者｜业余前端｜口琴
 - 🌱个人微信: RyukieW
 - 🍀微信公众号：LabLawliet
   - 选择性发布一些精选内容
-- 「老司机周报」 WWDC 翻译组
+- 🚗「老司机周报」 WWDC 翻译组
   - [【WWDC22 10116】初见 CKTool JS](https://xiaozhuanlan.com/topic/8235470691)
   - [【WWDC22 10115/10119】优化 CoreData & CloudKit 实现](https://xiaozhuanlan.com/topic/5821964073)
   - [老司机 iOS 周报 #193 | 2022-02-28 ScreenShield](https://mp.weixin.qq.com/s/KrnH0Tc6PDA6sNuOC8qzNg)
