@@ -1,7 +1,7 @@
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=RyukieSama&count_private=true&show_icons=true&theme=dark&include_all_commits=true" /> -->
 
-[![RyukieSama's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyukieSama&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/RyukieSama/github-readme-stats)
+[![RyukieSama's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyukieSama&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/RyukieSama)
 
 ## 👋 关于我 About me
 
